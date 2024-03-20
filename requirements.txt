@@ -1,0 +1,5 @@
+pip install opencv-python
+
+Coco.names
+yolov3.cfg
+yolov3.weighs
